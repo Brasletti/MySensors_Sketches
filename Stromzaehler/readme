@@ -4,9 +4,8 @@ ReflectorLightBarrier.ino von Martin Kompf
 sowie
 Watermeter_V211.ino von Ralph Bisschops
 
-Die Grundzuege entstammen dem EnergyMeterPulseSensor, da das Debouncing aber zu Wuenschen uebrig ließ wurde das Auslesen und Mitteln 
-der analogen Messwerte aus dem Watermeter_V211 Sketch uebernommen. Das einstellen der Schwellwerte war mir bei diesem Beispiel aber zu 
-umstaendlich, dehalb wurde die Komandozeile aus ReflectorLightBarrier hinzugefuegt. Hierdurch lassen sich direkt am Sensor die Schwellen
+Die Grundzuege entstammen dem EnergyMeterPulseSensor, da das Debouncing aber zu Wuenschen uebrig ließ, wurde das Auslesen und Mitteln der analogen Messwerte aus dem Watermeter_V211 Sketch uebernommen. 
+Das einstellen der Schwellwerte war mir bei diesem Beispiel aber zu umstaendlich, deshalb wurde die Kommandozeile aus ReflectorLightBarrier hinzugefuegt. Hierdurch lassen sich direkt am Sensor die Schwellen
 über den seriellen Monitor einstellen.
 Eingabemoeglichkeiten am seriellen Monitor sind:
 C             fuer Command worauf ein Prompt > fogt an dem die folgenden Befehle eingegeben werden koennen:
